@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h3 align="center">Software Engineering Undergraduate | Full-Stack Developer | Spring Boot Enthusiast from Sri Lanka</h3>
+<h3 align="center">Software Engineering Intern | Full-Stack Developer | MERN Stack | Java | Spring Boot | Next.js | REST APIs | React.js | Node.js | MongoDB</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=malinda-rathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="malinda-rathnayaka" /> </p>
